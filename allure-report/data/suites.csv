@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jun 22 19:00:14 IST 2024","Sat Jun 22 19:00:22 IST 2024","8540","chromium","playwrightDemoTests\demoTests.spec.js","Playwright end to end testing concept","","","Alert demo",""
+"passed","Sat Jun 22 19:00:46 IST 2024","Sat Jun 22 19:00:53 IST 2024","7381","chromium","playwrightDemoTests\demoTests.spec.js","Playwright end to end testing concept","","","Mouse action",""
+"passed","Sat Jun 22 19:00:22 IST 2024","Sat Jun 22 19:00:32 IST 2024","9991","chromium","playwrightDemoTests\demoTests.spec.js","Playwright end to end testing concept","","","Frame and Radio demo",""
+"passed","Sat Jun 22 19:00:39 IST 2024","Sat Jun 22 19:00:46 IST 2024","7164","chromium","playwrightDemoTests\demoTests.spec.js","Playwright end to end testing concept","","","keyboard action",""
+"passed","Sat Jun 22 19:00:32 IST 2024","Sat Jun 22 19:00:39 IST 2024","6661","chromium","playwrightDemoTests\demoTests.spec.js","Playwright end to end testing concept","","","checkBox demo",""
