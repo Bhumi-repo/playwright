@@ -41,7 +41,7 @@ module.exports = defineConfig({
     /* Base URL to use in actions like `await page.goto('/')`. */
     // baseURL: 'https://demoblaze.com/',
     baseURL:'https://testautomationpractice.blogspot.com/',
-     headless:false,
+     headless:true,
      
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'retain-on-failure',
